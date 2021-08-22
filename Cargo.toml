@@ -1,0 +1,7 @@
+[package]
+name = "open-link"
+version = "1.0.0"
+edition = "2018"
+
+[dependencies]
+webbrowser = "0.5"
